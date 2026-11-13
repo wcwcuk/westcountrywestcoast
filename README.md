@@ -2,7 +2,6 @@
 
 WCWC Limited's company website, hosted free on GitHub Pages.
 
-All details are filled in. Check them against Companies House before publishing.
 
 Edit freely: it's plain HTML and one CSS file.
 
